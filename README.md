@@ -24,6 +24,3 @@ npm run dev
 ✅ Dynamic Cost Calculation  
 ✅ State Management with Redux  
 
-![](../conference_event_planner/public/conference.png)
-
-![](../conference_event_planner/public/bgevent.png)
